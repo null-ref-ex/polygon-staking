@@ -2,5 +2,9 @@
     {
         "address": "0x3D72485DAB5eD0775c0Cb317c257EDEcd4d95f0f",
         "network": "Polygon"
+    },
+    {
+        "address": "0x4E332D23eA1D9f8247DEb4d8f03aC7b6785Be36B",
+        "network": "Polygon"
     }
 ]
